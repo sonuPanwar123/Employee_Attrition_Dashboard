@@ -1,0 +1,10 @@
+// ----------------important Insights--------------------  //
+1. Overall attrition rate is 16.12%.
+
+2. The Sales department has the highest attrition rate of 20.63%.
+
+3. Sales Representatives have the highest attrition rate among job roles at 39.76%.
+
+4. Employees working overtime have a significantly higher attrition rate of 30.53% compared to 10.44% for employees who do not work overtime.
+
+5. Employees with lower job satisfaction and lower monthly income are more likely to leave the company.
